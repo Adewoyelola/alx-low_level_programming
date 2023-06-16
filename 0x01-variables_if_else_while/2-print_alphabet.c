@@ -7,7 +7,7 @@
 /* betty style doc for function main goes there */
 int main(void)
 {
-	char i;
+	int (i);
 
 	for (i = 'a'; i <= 'z'; i++)
 	{
