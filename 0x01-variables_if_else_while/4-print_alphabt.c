@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/*
+/**
  * main - Entry point
  * Description - program prints alphabets in lowercase, followed
  * by a new line, except letters q and e
