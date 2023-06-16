@@ -14,12 +14,12 @@ int main(void)
 		putchar(a);
 		putchar(',');
 		putchar(' ');
-
-		if (a != 9 && a < 10)
-		{
-			putchar('\n');
-		}
 	}
+	if (a != 9 && a < 10)
+	{
+		putchar('\n');
+	}
+	
 
 	return (0);
 }
